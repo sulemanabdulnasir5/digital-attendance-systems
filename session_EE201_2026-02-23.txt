@@ -1,0 +1,3 @@
+CourseCode,Date,StartTime,Duration(hours)
+EE227,2026-02-23,11:00AM,4
+EEE101,2026-02-23,9:00AM,3
